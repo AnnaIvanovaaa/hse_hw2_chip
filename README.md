@@ -2,13 +2,13 @@
 Google colab https://colab.research.google.com/drive/1XOeL52k2GaJUB9T0RXkAlwnEmlVXq4jT?usp=sharing
 
 # Выдача FastQS
-ENCFF012FBS
+ENCFF012FBS:
 * ![Снимок экрана (186)](https://user-images.githubusercontent.com/93247992/157680231-29c4507e-5806-480f-bc30-9661585c80fc.png)
 * ![Снимок экрана (187)](https://user-images.githubusercontent.com/93247992/157680290-c81ac3e7-8ce3-4f8a-ab00-e0ca34577d5f.png)
 * ![Снимок экрана (188)](https://user-images.githubusercontent.com/93247992/157680357-232d59cd-f982-4586-9228-e33fcf8a2a8c.png)
 * ![Снимок экрана (194)](https://user-images.githubusercontent.com/93247992/157681548-bf438913-3ea4-4cd3-89b2-7fb941fd1b46.png)
 
-ENCFF832PSG:!
+ENCFF832PSG:
 * ![Снимок экрана (195)](https://user-images.githubusercontent.com/93247992/157682313-7b767950-3c96-4bff-8a49-d1698580fb15.png)
 * ![Снимок экрана (196)](https://user-images.githubusercontent.com/93247992/157682317-1c5c2331-0667-4536-ad29-af012327ba16.png)
 * ![Снимок экрана (197)](https://user-images.githubusercontent.com/93247992/157682321-d2c3ba2e-0b93-4012-bb8c-90e91becb32d.png)
