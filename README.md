@@ -2,7 +2,12 @@
 Google colab https://colab.research.google.com/drive/1XOeL52k2GaJUB9T0RXkAlwnEmlVXq4jT?usp=sharing
 
 # Выдача FastQS
-* ENCFF012FBS:
+* ENCFF012FBS
+* ![Снимок экрана (186)](https://user-images.githubusercontent.com/93247992/157680231-29c4507e-5806-480f-bc30-9661585c80fc.png)
+* ![Снимок экрана (187)](https://user-images.githubusercontent.com/93247992/157680290-c81ac3e7-8ce3-4f8a-ab00-e0ca34577d5f.png)
+* ![Снимок экрана (188)](https://user-images.githubusercontent.com/93247992/157680357-232d59cd-f982-4586-9228-e33fcf8a2a8c.png)
+
+* 
 * ENCFF832PSG:
 * ENCFF017JPY:
 
