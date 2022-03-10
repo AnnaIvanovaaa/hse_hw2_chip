@@ -7,7 +7,7 @@ Google colab https://colab.research.google.com/drive/1XOeL52k2GaJUB9T0RXkAlwnEml
 * ENCFF017JPY:
 
 # Статистика по 3 образцам
-| Образец       | reads           | aligned 0 times | aligned exactly 1 time | aligned >1 times|
+| Образец       | reads unpaired           | aligned 0 times | aligned exactly 1 time | aligned >1 times|
 | ------------- |:---------------:| :---------------:| :------------------:| :-------------:|
 | ENCFF017JPY   |4454137 (100.00%)|3821522 (85.80%)|314415 (7.06%)|318200 (7.14%)|
 | ENCFF012FBS   |1366301 (100.00%)|1149855 (84.16%)|112440 (8.23%)|104006 (7.61%)|
